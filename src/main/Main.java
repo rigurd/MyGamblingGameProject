@@ -1,10 +1,14 @@
 package main;
 
+import gameHandler.GameHandler;
+
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		GameHandler.runGame();
+		
+		
 	}
 
 }
