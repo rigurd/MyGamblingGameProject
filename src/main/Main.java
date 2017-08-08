@@ -1,6 +1,7 @@
 package main;
 
 import gameHandler.GameHandler;
+import games.HighLow;
 
 public class Main {
 
